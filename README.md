@@ -33,6 +33,7 @@
 git clone https://github.com/your-username/PyPinger.git
 cd PyPinger
 
+---
 2️⃣ **Run the Application**
 ```bash
 python PyPinger.py
