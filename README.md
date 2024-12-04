@@ -39,13 +39,14 @@ cd PyPinger
 python PyPinger.py
 ```
 
-📦 **Package as a Standalone Desktop Application**
+## 📦 **Package as a Standalone Desktop Application**
+
 **Step 1:** Install PyInstaller
 ```bash
 pip install pyinstaller
 ```
 
-**Step 2: ** Create an Executable
+**Step 2:** Create an Executable
 ```bash
 pyinstaller --onefile --noconsole --name "PyPinger" PyPinger.py
 ```
