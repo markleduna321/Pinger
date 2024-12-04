@@ -1,0 +1,5 @@
+203.177.73.162,Globe Leased Line
+206.62.43.149,Parasat Line
+142.251.220.174,Google.com
+192.168.24.1,Gateway
+192.168.24.222,Server

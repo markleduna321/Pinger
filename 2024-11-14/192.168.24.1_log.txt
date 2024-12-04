@@ -1,0 +1,41 @@
+Thu 11/14/2024 14:33:15.919 - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 14:33:17.943 - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 14:33:19.945 - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 14:33:21.947 - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 14:33:23.949 - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 14:33:25.951 - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 14:33:27.952 - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 02:38:56 PM - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 02:38:58 PM - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 02:39:00 PM - Reply from 192.168.24.1: bytes=32 time=0.47ms TTL=58
+Thu 11/14/2024 02:39:02 PM - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 02:39:06 PM - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 02:39:08 PM - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 02:39:10 PM - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 02:39:12 PM - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 02:39:14 PM - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 02:39:16 PM - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 02:39:18 PM - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 02:39:20 PM - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 02:39:22 PM - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 02:39:22 PM - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 02:39:28 PM - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 02:39:30 PM - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 02:39:32 PM - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 02:39:34 PM - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 02:39:36 PM - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 02:39:38 PM - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 02:39:40 PM - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 02:39:42 PM - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 02:39:44 PM - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 02:39:46 PM - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 02:39:48 PM - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 02:39:50 PM - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 02:39:52 PM - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 02:39:54 PM - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 02:39:56 PM - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 02:39:58 PM - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 02:40:00 PM - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 02:40:02 PM - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 02:40:04 PM - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
+Thu 11/14/2024 02:40:06 PM - Reply from 192.168.24.1: bytes=32 time=0.00ms TTL=58
