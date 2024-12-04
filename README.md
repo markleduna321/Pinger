@@ -32,20 +32,23 @@
 ```bash
 git clone https://github.com/your-username/PyPinger.git
 cd PyPinger
+```
 
----
 2️⃣ **Run the Application**
 ```bash
 python PyPinger.py
+```
 
 📦 **Package as a Standalone Desktop Application**
 **Step 1:** Install PyInstaller
 ```bash
 pip install pyinstaller
+```
 
 **Step 2: ** Create an Executable
 ```bash
 pyinstaller --onefile --noconsole --name "PyPinger" PyPinger.py
+```
 
 **Step 3:** Locate the Executable
 After running the command, the .exe file will be located in the dist folder.
