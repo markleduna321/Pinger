@@ -53,10 +53,10 @@ pyinstaller --onefile --noconsole --name "PyPinger" PyPinger.py
 **Step 3:** Locate the Executable
 After running the command, the .exe file will be located in the dist folder.
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request with your improvements or ideas.
 
-📝 License
-This project is licensed under the MIT License.
+## 📝 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Enjoy seamless IP tracking with PyPinger! 🌐
